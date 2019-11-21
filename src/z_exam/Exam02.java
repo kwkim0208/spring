@@ -114,6 +114,7 @@ public class Exam02 {
 	f,c
 		
 )*/
+		//집에서함
 		
 	}
 
